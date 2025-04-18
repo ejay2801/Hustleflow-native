@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692194539400",
+    "project_id": "hustle-and-flow-app",
+    "storage_bucket": "hustle-and-flow-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692194539400:android:f2d7104b5f0553afbfac3d",
+        "android_client_info": {
+          "package_name": "Hustle.flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAesvps_B0juQZyAF1P3Eykv1xGnWD4QUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
